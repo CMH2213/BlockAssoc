@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Census | West 136th Block Assoc.</title>
+    <link>/tag/census/</link>
+      <atom:link href="/tag/census/index.xml" rel="self" type="application/rss+xml" />
+    <description>Census</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Mon, 30 Mar 2020 10:30:00 -0500</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Census</title>
+      <link>/tag/census/</link>
+    </image>
+    
+    <item>
+      <title>2020 Census</title>
+      <link>/post/2020-03-30-r-rmarkdown/</link>
+      <pubDate>Mon, 30 Mar 2020 10:30:00 -0500</pubDate>
+      <guid>/post/2020-03-30-r-rmarkdown/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Hi Neighbors,&lt;/p&gt;
+&lt;p&gt;Have you completed your 2020 census yet?&lt;/p&gt;
+&lt;p&gt;It takes less than 10 minutes to do and gives our communities another 10 years. Please take this time while social distancing as well as encourage others to complete the census. April 1st is national Census day and every completed survey counts. Currently the numbers for NYC and Harlem residents is extremely low.&lt;/p&gt;
+&lt;p&gt;To complete it online, &lt;a href=&#34;http://my2020census.gov/&#34;&gt;my2020census.gov&lt;/a&gt; or &lt;a href=&#34;http://2020census.gov/&#34;&gt;2020census.gov&lt;/a&gt;, and by phone using the numbers below and attached, in 13 languages.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LANGUAGE LINE TOLL-FREE NUMBER&lt;/strong&gt;&lt;br /&gt;
+English 844-330-2020&lt;br /&gt;
+Spanish 844-468-2020&lt;br /&gt;
+Chinese (Mandarin) 844-391-2020&lt;br /&gt;
+Chinese (Cantonese) 844-398-2020&lt;br /&gt;
+Vietnamese 844-461-2020&lt;br /&gt;
+Korean 844-392-2020&lt;br /&gt;
+Russian 844-417-2020&lt;br /&gt;
+Arabic 844-416-2020&lt;br /&gt;
+Tagalog 844-478-2020&lt;br /&gt;
+Polish 844-479-2020&lt;br /&gt;
+French 844-494-2020&lt;br /&gt;
+Haitian Creole 844-477-2020&lt;br /&gt;
+Portuguese 844-474-2020&lt;br /&gt;
+Japanese 844-460-2020&lt;br /&gt;
+English (Puerto Rico residents) 844-418-2020&lt;br /&gt;
+Spanish (Puerto Rico residents) 844-426-2020&lt;br /&gt;
+Telephone Display Device (TDD) 844-467-2020&lt;/p&gt;
+&lt;p&gt;Census 2020 - April 1&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

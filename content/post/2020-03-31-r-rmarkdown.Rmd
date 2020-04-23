@@ -1,0 +1,41 @@
+---
+title: "Masks4All"
+author: "Candi Halbert"
+date: 2020-03-31T13:30:00-05:00
+categories: ["News"]
+tags: ["General", "COVID-19"]
+---
+Hi Neighbors!
+
+I hope everyone is well and that we all continue in good health as our block, Harlem, the city and the country faces the COVID-19 pandemic. 
+
+As if it needs to be said, please heed the strong recommendation to practice social distancing, limit social interaction, and generally STAY HOME. 
+
+I want to share some data and advice I’ve given to my family and friends based on research, not fear. I strongly encourage everyone to wear some sort of mask in your everyday life when you are out in public. 
+
+The mask **does NOT** need to be the coveted **N95** masks and research has shown that a simple bandana across your nose and mouth will provide some benefit. So this recommendation has **no impact on hospital workers** or other front-line workers.
+
+In simple terms, when you sneeze, cough, talk, or even breathe, you expel tiny droplets from your respiratory tract. Sneezing, coughing, talking, or even breathing by an infected individual can transmit the virus onto surfaces or into the air. 
+
+By wearing a mask you reduce the transmission of infected respiratory droplets. Since some people can be infected and show no symptoms, it just makes sense for everyone to wear a mask. **When you wear your mask, you protect me. When I wear my mask, I protect you**.
+
+What if you don’t have a mask or have run out of masks and the shortage prevents you from getting one? There are several Youtube tutorials for [homemade masks.](https://www.youtube.com/watch?v=iNX0cRrYj6U)  Even simpler is this tutorial using [an old T-shirt requiring NO sewing](https://www.youtube.com/watch?v=pJaVBt8q6g8). Finally, a simple scarf or bandana can also be used. As a point of comparison, a surgical mask is 89% effective in filtering virus particles as small as the COVID-19 where a simple T-shirt or scarf can be 50% effective.[*]
+
+For additional insights, [video by USF Data Scientist Jeremy Howard](https://youtu.be/BoDwXwZXsDI) and his Washington Post article titled ['Simple DIY masks could help flatten the curve. We should all wear them in public'](https://www.washingtonpost.com/outlook/2020/03/28/masks-all-coronavirus/).
+
+Be well,   
+-Candi Halbert
+
+Research Papers...   
+[1.	Professional and Home-Made Face Masks Reduce Exposure to Respiratory Infections among the General Population](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2440799/)   
+[2.	Coronavirus can travel twice as far as official ‘safe distance’, study says](https://www.scmp.com/news/china/science/article/3074351/coronavirus-can-travel-twice-far-official-safe-distance-and-stay)   
+[3.	Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic? | Disaster Medicine and Public Health Preparedness](https://www.cambridge.org/core/journals/disaster-medicine-and-public-health-preparedness/article/testing-the-efficacy-of-homemade-masks-would-they-protect-in-an-influenza-pandemic/0921A05A69A9419C862FA2F35F819D55)   
+[4.	What is the efficacy of standard face masks compared to respirator masks in preventing COVID-type respiratory illnesses in primary care staff?](https://www.cebm.net/what-is-the-efficacy-of-standard-face-masks-compared-to-respirator-masks-in-preventing-covid-type-respiratory-illnesses-in-primary-care-staff/)   
+[5.	Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://www.nejm.org/doi/full/10.1056/NEJMc2004973)   
+[6.	Addressing COVID-19 Face Mask Shortages: evaluating decontamination methods for N95 mask reuse.](https://stanfordmedicine.app.box.com/v/covid19-PPE-1-1)   
+[7.	Rational use of face masks in the COVID-19 pandemic](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30134-X/fulltext)   
+[8.	Influenza Virus Aerosols in Human Exhaled Breath: Particle Size, Culturability, and Effect of Surgical Masks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3591312/)   
+[9.	Effectiveness of Masks and Respirators Against Respiratory Infections in Healthcare Workers: A Systematic Review and Meta-Analysis](https://pubmed.ncbi.nlm.nih.gov/29140516/)   
+[10.	Physical interventions to interrupt or reduce the spread of respiratory viruses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6993921/)   
+[11.	Effectiveness of N95 respirators versus surgical masks against influenza: A systematic review and metaâ•'analysis](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jebm.12381)   
+[12.	Modeling the Effectiveness of Respiratory Protective Devices in Reducing Influenza Outbreak](https://onlinelibrary.wiley.com/doi/full/10.1111/risa.13181)
