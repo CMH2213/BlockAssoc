@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587840107262.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3787848533",
+    "id" : "F5ADE1B4",
+    "lastKnownWriteTime" : 1587595458,
+    "last_content_update" : 1587595458,
+    "path" : "~/Documents/PersonalBlog/BlockAssociation/themes/hugo-academic/layouts/partials/functions/get_author_name.html",
+    "project_path" : "themes/hugo-academic/layouts/partials/functions/get_author_name.html",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 29,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "html"
+}

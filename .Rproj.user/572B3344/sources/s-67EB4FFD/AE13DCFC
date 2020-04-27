@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587838513878.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AE13DCFC",
+    "lastKnownWriteTime" : 1587602609,
+    "last_content_update" : 1587602609,
+    "path" : "~/Documents/PersonalBlog/BlockAssociation/content/home/talks.md",
+    "project_path" : "content/home/talks.md",
+    "properties" : {
+        "cursorPosition" : "6,14",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 24,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

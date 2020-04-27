@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587831208302.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D9DF0E0C",
+    "lastKnownWriteTime" : 1587848048,
+    "last_content_update" : 1587848048951,
+    "path" : "~/Documents/PersonalBlog/BlockAssociation/netlify.toml",
+    "project_path" : "netlify.toml",
+    "properties" : {
+        "cursorPosition" : "2,58",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 18,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
