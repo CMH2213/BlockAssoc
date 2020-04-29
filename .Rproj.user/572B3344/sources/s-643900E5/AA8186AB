@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587604921905.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AA8186AB",
+    "lastKnownWriteTime" : 1587608236,
+    "last_content_update" : 1587608236170,
+    "path" : "~/Documents/PersonalBlog/BlockAssociation/content/post/2020-04-04-r-rmarkdown.Rmd",
+    "project_path" : "content/post/2020-04-04-r-rmarkdown.Rmd",
+    "properties" : {
+        "cursorPosition" : "7,13",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 13,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

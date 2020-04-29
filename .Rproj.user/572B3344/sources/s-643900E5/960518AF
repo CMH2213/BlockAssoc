@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588001069902.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1583859187",
+    "id" : "960518AF",
+    "lastKnownWriteTime" : 1587595458,
+    "last_content_update" : 1587595458,
+    "path" : "~/Documents/PersonalBlog/BlockAssociation/public/admin/config.yml",
+    "project_path" : "public/admin/config.yml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 34,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}

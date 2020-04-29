@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587602255162.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2547472529",
+    "id" : "39000583",
+    "lastKnownWriteTime" : 1587995440,
+    "last_content_update" : 1587995440900,
+    "path" : "~/Documents/PersonalBlog/BlockAssociation/content/home/about.md",
+    "project_path" : "content/home/about.md",
+    "properties" : {
+        "cursorPosition" : "9,36",
+        "scrollLine" : "1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
