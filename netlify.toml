@@ -16,7 +16,7 @@
   HUGO_VERSION = "0.69.2" # if older, use format: 0.53 (no trailing zero)
 
 [context.branch-deploy]
-  HUGO_VERSION = "0.69.2" # if older, use format: 0.53 (no trailing zero)
+  HUGO_VERSION = "0.69.2" # if older, use format: 0.53 (no  trailing zero)
 
 [[headers]]
   for = "*.webmanifest"
